@@ -1,0 +1,16 @@
+video {
+    display: none
+}
+
+a {
+    display: block;
+}
+
+body {
+    font-size: 17px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+}
